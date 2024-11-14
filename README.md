@@ -3,13 +3,13 @@
   + In order to achieve synchronous tasks, we will ensure different order items are completed/started simultaneously
   + Different dining scenarios will be made to keep things interesting
   + Threads? - meats down, cook fries, prepare drinks, gather utensils, build burger, package everything, serve (transactions?)
-  + Additional Threads? -> have 2-3 cooks as threads
+  + Additional Threads? -> 2-3 cooks, server(s), (cashier?),
   
 ## Add your names to confirm you are connected:
   - [x] Gavin Chan
   - [x] Darvy Nava
   - [x] Reda Masri
-  - [ ] Geovanny Montano
+  - [x] Geovanny Montano
   - [ ] ...
 
 ## Final Project Presentations - 12/5
