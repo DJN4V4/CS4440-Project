@@ -25,6 +25,6 @@
   ### *Week 2*
   - [x] Write pseudocode, make diagrams, develop code, implement examples, etc.
   ### *Week 3*
-  - [ ] Putting all your work together to present
-  - [ ] It can be a PowerPoint, poster, etc, since we are going to be working on this in class points will be given for creativity
-  - [ ] Begin Presentation
+  - [x] Putting all your work together to present
+  - [x] It can be a PowerPoint, poster, etc, since we are going to be working on this in class points will be given for creativity
+  - [x] Begin Presentation
